@@ -39,17 +39,16 @@
 ---
 
 ## 🔥 GitHub Streak
-GitHub Streak
-
+![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeetdeshmukhdeveloper&theme=tokyonight)
 ---
 
 ## 💻 Most Used Languages
-Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetdeshmukhdeveloper&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
-Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetdeshmukhdeveloper&theme=tokyo-night)
 
 ---
 
