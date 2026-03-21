@@ -23,11 +23,11 @@
 ---
 
 ## 📂 Projects
-- 🔹 Crop Disease Identification System (Python / Dart / TensorFlow Lite)
-- 🔹 Wearable Health Monitoring Device that Detects Early Skin Infection Risk (Kotlin / Java)
-- 🔹 Interpretable Machine Learning for Personalized Disease Risk Stratification (AI Project)
-- 🔹 To-Do App (Python / Web)
-- 🔹 Portfolio Website  
+- Crop Disease Identification System (Python / Dart / TensorFlow Lite)
+- Wearable Health Monitoring Device that Detects Early Skin Infection Risk (Kotlin / Java)
+- Interpretable Machine Learning for Personalized Disease Risk Stratification (AI Project)
+- To-Do App (Python / Web)
+- Portfolio Website  
 
 👉 More projects coming soon...
 
