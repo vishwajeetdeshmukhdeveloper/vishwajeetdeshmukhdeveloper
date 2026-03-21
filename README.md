@@ -19,7 +19,14 @@
 - 🌐 Web: HTML, CSS, JavaScript  
 - ⚙️ Tools: Git, GitHub, VS Code, Android Studio  
 - 📊 Basics: Data Structures, DBMS  
+## 🛠️ Skills
 
+Python
+Java
+HTML
+CSS
+JavaScript
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 ---
 
 ## 📂 Projects
