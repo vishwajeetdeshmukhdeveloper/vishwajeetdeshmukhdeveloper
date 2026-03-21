@@ -35,7 +35,16 @@
 ---
 
 ## 📊 GitHub Stats
-Stats
+(stats card)
+
+## 🔥 GitHub Streak
+(streak card)
+
+## 💻 Most Used Languages
+(top languages)
+
+## 📈 Contribution Graph
+(graph)
 
 Top Languages
 
