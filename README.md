@@ -1,3 +1,12 @@
+}
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p
+
+
+
+
+
 # Hi 👋, I'm Vishwajeet Deshmukh
 
 🎓 BTech CSE Student from India  
@@ -21,12 +30,6 @@
 - 📊 Basics: Data Structures, DBMS  
 ## 🛠️ Skills
 
-Python
-Java
-HTML
-CSS
-JavaScript
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 ---
 
 ## 📂 Projects
