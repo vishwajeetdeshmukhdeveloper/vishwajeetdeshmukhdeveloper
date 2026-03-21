@@ -15,44 +15,47 @@
 ---
 
 ## 🛠️ Skills
-- 💻 Languages: Python, C, C++ , PHP, Java, Dart, Kotlin 
+- 💻 Languages: Python, C, C++, Java, PHP, Dart, Kotlin  
 - 🌐 Web: HTML, CSS, JavaScript  
 - ⚙️ Tools: Git, GitHub, VS Code, Android Studio  
 - 📊 Basics: Data Structures, DBMS  
-## 🛠️ Skills
 
 ---
 
 ## 📂 Projects
-- Crop Disease Identification System (Python / Dart / TensorFlow Lite)
-- Wearable Health Monitoring Device that Detects Early Skin Infection Risk (Kotlin / Java)
-- Interpretable Machine Learning for Personalized Disease Risk Stratification (AI Project)
-- To-Do App (Python / Web)
-- Portfolio Website  
+- 🔹 Crop Disease Identification System (Python / Dart / TensorFlow Lite)  
+- 🔹 Wearable Health Monitoring Device (Kotlin / Java)  
+- 🔹 Disease Risk Stratification using ML (AI Project)  
+- 🔹 To-Do App (Python / Web)  
+- 🔹 Portfolio Website  
 
 👉 More projects coming soon...
 
 ---
 
 ## 📊 GitHub Stats
-(stats card)
+GitHub Stats
+
+---
 
 ## 🔥 GitHub Streak
-(streak card)
+GitHub Streak
+
+---
 
 ## 💻 Most Used Languages
-(top languages)
-
-## 📈 Contribution Graph
-(graph)
-
 Top Languages
 
 ---
 
+## 📈 Contribution Graph
+Graph
+
+---
+
 ## 📫 Connect With Me
-- 📧 Email: vishwajeetdeshmukh.dev@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/contact-vishwajeet-deshmukh
+- 📧 Email: vishwajeetdeshmukh.dev@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/contact-vishwajeet-deshmukh  
 - 💻 GitHub: https://github.com/vishwajeetdeshmukhdeveloper  
 
 ---
