@@ -19,7 +19,7 @@
 
 <br>
 
-<h2 align="center"> <img src="" width="25"/> <em> About me </em></h2>
+<h2 align="center"> <em> About me </em></h2>
 
 <table>
 <tr>
@@ -29,10 +29,10 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 
 <br/>
 
-<img src="" width="15"/>&nbsp;&nbsp;<em><b>Studying BTech in Computer Science &amp; Engineering</b></em><br/>
-<img src="" width="15"/>&nbsp;&nbsp;<em><b>Building SmartAgri, Alpha Robot Companion &amp; ExpensesPro</b></em><br/>
-<img src="" width="15"/>&nbsp;&nbsp;<em><b>Learning Django &amp; Machine Learning</b></em><br/>
-<img src="" width="15"/>&nbsp;&nbsp;<em><b>Founder at Vishv Technologies</b></em><br/>
+<em><b>Studying BTech in Computer Science &amp; Engineering</b></em><br/>
+<em><b>Building SmartAgri, Alpha Robot Companion &amp; ExpensesPro</b></em><br/>
+<em><b>Learning Django &amp; Machine Learning</b></em><br/>
+<em><b>Founder at Vishv Technologies</b></em><br/>
 
 </td>
 <td width="30%" align="center" valign="middle">
@@ -45,7 +45,7 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 
 <br/>
 
-<h2 align="center"> <img src="" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <em> Technologies </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -71,7 +71,7 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 
 <br/>
 
-<h2 align="center"> <img src="" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center"><em> Statistics </em> </h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetdeshmukhdeveloper&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
