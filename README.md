@@ -1,99 +1,68 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Vishwajeet+Deshmukh;Software+Developer;Building+with+Python+%26+AI;Open+to+Opportunities&font=Fira+Code&center=true&width=520&height=50&duration=3000&pause=800&color=4F8EF7&vCenter=true&size=24" alt="Typing SVG" />
-
-<sub>BTech CSE • Web Development · Python · Applied AI</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Welcome%20to%20Vishwajeet's%20Github&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=%3C/%3E&descAlignY=58&descSize=16" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishwajeetdeshmukh.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/contact-vishwajeet-deshmukh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajeetdeshmukh.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/contact-vishwajeet-deshmukh)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwajeetdeshmukhdeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vishwajeetdeshmukhdeveloper)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajeetdeshmukh.dev@gmail.com)
 
 </div>
 
 <br/>
 
-## About
+### 📌 About me
 
-I build software at the intersection of practical engineering and applied machine learning — agricultural tech, health monitoring, and everyday productivity tools. Most of my work starts as a specific problem I want solved, then turns into something worth sharing.
+Hey there! I'm **Vishwajeet**, a BTech CSE student. I enjoy learning new technologies and solving problems in Python, applied ML, and full-stack web — usually by building something small and useful rather than reading about it.
 
-Currently deepening my Django and ML fundamentals while finishing my CSE degree. Interested in roles and collaborations where the goal is shipping something people actually use.
-
-- **Building:** AI-assisted tools and full-stack web apps
-- **Learning:** Django, applied Machine Learning
-- **Open to:** internships, collaborations, open-source contributions
-- **Based in:** India
+- 🔭 Currently building **SmartAgri**, **Alpha Robot Companion**, and **ExpensesPro**
+- 🌱 Currently learning **Django** and **Machine Learning**
+- 🎯 Working toward a placement at a strong engineering team
+- 🎮 Off-screen: solving real-world problems with code, one repo at a time
 
 <br/>
 
-## Tech Stack
+### 💻 Technologies
 
-**Languages**
-<br/>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=py,c,cpp,java,php,dart,kotlin" />
-
-**Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-**Backend**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask,nodejs" />
 <br/>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express" />
-
-**Mobile**
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,tensorflow,pytorch,sklearn,opencv" />
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,git,github,docker,linux" />
 
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman" />
+</div>
 
 <br/>
 
-## Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 SmartAgri
-Crop disease identification system that classifies plant health from leaf images and suggests corrective action, aimed at smallholder farmers without easy access to agronomists.
-
-**Stack:** Python · TensorFlow Lite · Dart
-
-**Highlights**
-- On-device inference for low-connectivity regions
-- Lightweight model tuned for mobile hardware
-- Simple, farmer-first interface
-
+**🌾 SmartAgri**
+<br/>
+Crop disease identification from leaf images with on-device inference, built for farmers with limited connectivity.
+<br/>
+`Python` `TensorFlow Lite` `Dart`
+<br/>
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwajeetdeshmukhdeveloper)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Alpha Robot Companion
-Wearable health monitoring device pairing sensor hardware with a companion app to track vitals in real time and flag anomalies early.
-
-**Stack:** Kotlin · Java
-
-**Highlights**
-- Real-time vitals tracking
-- Threshold-based anomaly alerts
-- Companion mobile app for history and trends
-
+**🤖 Alpha Robot Companion**
+<br/>
+Wearable health monitor pairing sensor hardware with a companion app for real-time vitals and anomaly alerts.
+<br/>
+`Kotlin` `Java`
+<br/>
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwajeetdeshmukhdeveloper)
 
 </td>
@@ -101,76 +70,48 @@ Wearable health monitoring device pairing sensor hardware with a companion app t
 <tr>
 <td width="50%" valign="top">
 
-### 💰 ExpensesPro
-Personal finance tracker for logging expenses, categorizing spend, and visualizing monthly trends without the bloat of a full accounting suite.
-
-**Stack:** Python · Web
-
-**Highlights**
-- Category-based spend breakdown
-- Monthly trend visualization
-- Clean, distraction-free UI
-
+**💰 ExpensesPro**
+<br/>
+Lightweight expense tracker with category breakdowns and monthly trend visualization.
+<br/>
+`Python` `Web`
+<br/>
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwajeetdeshmukhdeveloper)
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Disease Risk Stratification
-ML model that estimates disease risk tiers from patient data, built to explore how interpretable models can support early screening decisions.
-
-**Stack:** Python · scikit-learn
-
-**Highlights**
-- Risk-tier classification pipeline
-- Feature importance analysis for interpretability
-- Evaluated across multiple model baselines
-
+**🩺 Disease Risk Stratification**
+<br/>
+Interpretable ML model estimating disease risk tiers to support early screening decisions.
+<br/>
+`Python` `scikit-learn`
+<br/>
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwajeetdeshmukhdeveloper)
 
 </td>
 </tr>
 </table>
 
-<div align="right"><sub>More projects on my <a href="https://github.com/vishwajeetdeshmukhdeveloper?tab=repositories">GitHub</a></sub></div>
-
 <br/>
 
-## Experience
-
-```
-2024 ─┬─ AI & Web Projects
-      │  Building SmartAgri, Alpha Robot Companion, and ExpensesPro
-      │
-2023 ─┼─ Machine Learning Deep-Dive
-      │  Disease Risk Stratification — model design and evaluation
-      │
-2022 ─┴─ Started BTech in Computer Science & Engineering
-         Foundations in DSA, DBMS, and core programming
-```
-
-<br/>
-
-## GitHub Analytics
+### 📊 Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishwajeetdeshmukhdeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetdeshmukhdeveloper&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishwajeetdeshmukhdeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=vishwajeetdeshmukhdeveloper&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vishwajeetdeshmukhdeveloper&theme=tokyonight&hide_border=true" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetdeshmukhdeveloper&theme=tokyo-night&hide_border=true" width="85%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetdeshmukhdeveloper&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetdeshmukhdeveloper&theme=tokyo-night&hide_border=true" width="48%" />
 
 </div>
 
 <br/>
 
-## Achievements
+### 🏆 Achievements
 
 <div align="center">
 
@@ -180,40 +121,25 @@ ML model that estimates disease risk tiers from patient data, built to explore h
 
 <br/>
 
-## Open Source
-
-I contribute to repositories in the Python and ML tooling space where I can, and maintain my own projects with a focus on documentation quality and clean commit history — not just working code.
-
-<br/>
-
-## Community
+### 🌐 Community
 
 <div align="center">
 
-[![Vishv Technologies](https://img.shields.io/badge/Vishv_Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vishvtechnologies.app/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/contact-vishwajeet-deshmukh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishwajeetdeshmukh.me/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajeetdeshmukh.dev@gmail.com)
+[![Vishv Technologies](https://img.shields.io/badge/Vishv_Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vishwajeetdeshmukhdeveloper)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/contact-vishwajeet-deshmukh)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajeetdeshmukh.dev@gmail.com)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vishwajeetdeshmukhdeveloper&label=Profile+Views&color=4F8EF7&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=vishwajeetdeshmukhdeveloper&label=Profile+Views&color=000000&style=flat" alt="Profile Views" />
 </div>
 
 <br/>
 
----
-
-<div align="center">
-
-**Thanks for visiting.**
-<br/>
-Let's build something amazing.
-
-<sub>© Vishwajeet Deshmukh</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=ffffff&fontAlignY=75" />
 
 </div>
