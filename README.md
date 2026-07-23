@@ -190,7 +190,7 @@ I contribute to repositories in the Python and ML tooling space where I can, and
 
 <div align="center">
 
-[![Vishv Technologies](https://img.shields.io/badge/Vishv_Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vishwajeetdeshmukhdeveloper)
+[![Vishv Technologies](https://img.shields.io/badge/Vishv_Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vishvtechnologies.app/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/contact-vishwajeet-deshmukh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishwajeetdeshmukh.me/)
