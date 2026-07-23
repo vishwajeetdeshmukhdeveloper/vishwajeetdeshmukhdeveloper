@@ -37,7 +37,7 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="220"/>
 
 </td>
 </tr>
