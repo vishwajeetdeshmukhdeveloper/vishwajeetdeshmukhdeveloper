@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="githubanner.JPG" width="100%"/>
+  <img src="githubanner.png" width="100%"/>
 </p>
 
 <p align="center">
